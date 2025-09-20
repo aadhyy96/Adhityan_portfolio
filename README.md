@@ -19,10 +19,12 @@ I’m passionate about building my career in analytics and helping businesses ma
 
 ## 💼 Work Experience  
 
-### 🔹 Project Lead (Senior Data Analyst) — *Rows & Columns, Kozhikode*  
-- Leading the analytics team to deliver industry-wide reporting using **Power BI** and **Excel**  
-- Consulting clients on KPIs and building real-time dashboards using **Microsoft 365** tools  
-- Created automated reporting solutions from diverse data sources  
+### 🔹Data Analyst Intern — *Rows & Columns, Kozhikode*  
+
+-Assisting in building interactive dashboards and reports using Power BI and Excel
+-Supporting the team in cleaning, transforming, and validating datasets for accurate analysis-
+-Learning to track and present key business KPIs through visualizations
+-Contributing to reporting workflows and exploring automation using Microsoft 365 tools 
 
 ### 🔹 Performance Analyst Intern — *Stepout, Bangalore (Remote)*  
 - Tagged & analyzed 200+ football matches from global leagues  
@@ -85,15 +87,15 @@ I’m passionate about building my career in analytics and helping businesses ma
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:boniboban@gmail.com">boniboban@gmail.com</a></td>
+      <td><a href="mailto:aadhyy96@gmail.com">aadhyy96@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(+91) 828-985-4724</td>
+      <td>(+91) 9656155234</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>Malappuram, Kerala</td>
+      <td>Kasaragod, Kerala</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -101,7 +103,7 @@ I’m passionate about building my career in analytics and helping businesses ma
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/adhityanb">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
